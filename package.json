@@ -27,19 +27,6 @@
     "App.js",
     "app.json"
   ],
-  "devDependencies": {
-    "babel-jest": "21.2.0",
-    "babel-preset-react-native": "4.0.0",
-    "jest": "21.2.1",
-    "react-test-renderer": "16.0.0-alpha.12"
-  },
-  "peerDependencies": {
-    "react": ">=16.0.0-alpha.12",
-    "react-native": ">=0.46.4"
-  },
-  "jest": {
-    "preset": "react-native"
-  },
   "bugs": {
     "url": "https://github.com/yuanwenfei/yhk-react-native-base-comm/issues"
   },
