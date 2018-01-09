@@ -1,6 +1,6 @@
 {
   "name": "yhk-react-native-base-comm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "nativePackage": true,
   "description": " yhk base comm library for react-native",
   "repository": {
