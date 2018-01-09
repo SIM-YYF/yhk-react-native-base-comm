@@ -2,11 +2,11 @@
   "name": "yhk-react-native-base-comm",
   "version": "0.0.1",
   "nativePackage": true,
-  "author": "yhk",
+  "author": "yuanwenfei",
   "description": " yhk base comm library for react-native",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuanwenfei/yhk-react-native-base-comm.git"
+    "url": "git+https://github.com/yuanwenfei/yhk-react-native-base-comm.git"
   },
   "license": "MIT",
   "main": "./index.js",
@@ -44,5 +44,12 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanwenfei/yhk-react-native-base-comm/issues"
+  },
+  "homepage": "https://github.com/yuanwenfei/yhk-react-native-base-comm#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
