@@ -2,7 +2,6 @@
   "name": "yhk-react-native-base-comm",
   "version": "0.0.1",
   "nativePackage": true,
-  "author": "yuanwenfei",
   "description": " yhk base comm library for react-native",
   "repository": {
     "type": "git",
