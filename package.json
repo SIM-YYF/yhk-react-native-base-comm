@@ -1,0 +1,48 @@
+{
+  "name": "yhk-react-native-base-comm",
+  "version": "0.0.1",
+  "nativePackage": true,
+  "author": "yhk",
+  "description": " yhk base comm library for react-native",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanwenfei/yhk-react-native-base-comm.git"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "image",
+    "video",
+    "focus"
+  ],
+  "files": [
+    "ios/*",
+    "README.md",
+    "LICENSE",
+    "index.js",
+    "android/*",
+    "App.js",
+    "app.json"
+  ],
+  "dependencies": {
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.46.4"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0-alpha.12",
+    "react-native": ">=0.46.4"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,3 @@
+rootProject.name = 'rn_yhk_base_comm'
+
+include ':mylibrary'
